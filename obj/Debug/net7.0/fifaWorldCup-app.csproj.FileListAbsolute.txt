@@ -1,0 +1,15 @@
+D:\projectsNetCore\fifaWorldCup-app\bin\Debug\net7.0\fifaWorldCup-app.exe
+D:\projectsNetCore\fifaWorldCup-app\bin\Debug\net7.0\fifaWorldCup-app.deps.json
+D:\projectsNetCore\fifaWorldCup-app\bin\Debug\net7.0\fifaWorldCup-app.runtimeconfig.json
+D:\projectsNetCore\fifaWorldCup-app\bin\Debug\net7.0\fifaWorldCup-app.dll
+D:\projectsNetCore\fifaWorldCup-app\bin\Debug\net7.0\fifaWorldCup-app.pdb
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\fifaWorldCup-app.csproj.AssemblyReference.cache
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\fifaWorldCup-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\fifaWorldCup-app.AssemblyInfoInputs.cache
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\fifaWorldCup-app.AssemblyInfo.cs
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\fifaWorldCup-app.csproj.CoreCompileInputs.cache
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\fifaWorldCup-app.dll
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\refint\fifaWorldCup-app.dll
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\fifaWorldCup-app.pdb
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\fifaWorldCup-app.genruntimeconfig.cache
+D:\projectsNetCore\fifaWorldCup-app\obj\Debug\net7.0\ref\fifaWorldCup-app.dll

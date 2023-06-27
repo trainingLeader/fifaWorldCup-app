@@ -17,5 +17,19 @@ namespace fifaWorldCup_app.Entities
         public string? NamePlayer { get => namePlayer; set => namePlayer = value; }
         public int AgePlayer { get => agePlayer; set => agePlayer = value; }
 
+        public Player(){}
+        public Player RegistroPlayer(){
+                Player player= new Player();
+                Console.WriteLine("Ingrese Nombre Jugador:");
+                player.NamePlayer = Console.ReadLine();
+                Console.WriteLine("Ingrese Nro Dorsal:");
+                player.IdPlayer = Console.ReadLine();
+                Console.WriteLine("Ingrese posicion de juego:");
+                player.PositionPlayer = Console.ReadLine();
+                Console.WriteLine("Ingrese edad de jugador:");
+                player.PositionPlayer = Console.ReadLine();
+                return player;
+        }
+
     }
 }
